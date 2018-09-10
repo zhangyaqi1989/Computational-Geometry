@@ -1,0 +1,12 @@
+1. points-1.txt
+convex hull area: 151.264388
+bounding rectangle area: 181.472573
+
+2. points-2.txt
+convex hull area: 159.821489
+bounding rectangle area: 173.167780
+
+3. points-3.txt
+convex hull area: 739.317457
+bounding rectangle area: 785.052021
+

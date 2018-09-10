@@ -1,0 +1,17 @@
+whole pipeline: /2
+
+stage 1-2 (reconstruction): /2
+
+stage 3 (PMC): /2
+
+stage 4 (triangulation): /2
+
+stage 5 (medial axis): /2
+
+bonus: /15
+
+code: /50
+
+analysis: /50
+
+total: /100
