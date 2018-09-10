@@ -1,6 +1,6 @@
-# CS/ME 558 Intro to Computational Geometry (Spring 2018)
-This repository includes all the homeworks and project of 
-CS/ME 558 Intro to Computational Geometry (Spring 2018)
+# Computational Geometry
+This repository includes python implementation of some
+computational geometry algorithms.
 
 1. [Line](HW/hw1/README.md)
 ![example2](HW/hw1/fig2.png)
