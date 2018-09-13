@@ -1,6 +1,6 @@
 # Computational Geometry
 This repository includes python implementation of some
-computational geometry algorithms including line intersection, convex hull, polygon diameter/width, triangulation, Delaunay triangulation, Voronoi diagram, shape reconstruction, marching squares, polygon triangulation, medial axis.
+computational geometry algorithms including line intersection, convex hull, polygon diameter/width, triangulation, Delaunay triangulation, Voronoi diagram, shape reconstruction, marching squares, polygon Delaunay triangulation, medial axis of polygon.
 
 1. [Line](HW/hw1/README.md)
 
