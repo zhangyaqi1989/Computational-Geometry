@@ -29,7 +29,7 @@ def main():
     fig, ax = plt.subplots(figsize=(8, 8))
     plot_triangulation(tri, ax=ax)
     ax.axis('equal')
-    ax.set_title('Delaunay Triangulation')
+    ax.set_title('Polygon Delaunay Triangulation')
     plt.show()
 
 

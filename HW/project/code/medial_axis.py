@@ -30,7 +30,7 @@ def main():
     medial_axis = compute_polygon_medial_axis(polygon, h=0.1)
     plot_polygon_medial_axis(polygon, medial_axis, ax=ax)
     ax.axis('equal')
-    ax.set_title('Delaunay Triangulation')
+    ax.set_title('Medial Axis')
     plt.show()
 
 if __name__ == "__main__":
